@@ -9,16 +9,17 @@ The data of each process is stored in one line in a file.
 
 ### Input Example:
 
-Order      | ID | Size
-Allocate   | 1  | 200
-Allocate   | 2  | 30
-Allocate   | 3  | 55
-Deallocate | 2  |
-Deallocate | 3  |
-Allocate   | 4  | 14
-Deallocate | 1  |
-Deallocate | 4  |
-Allocate   | 5  |255
-Allocate   | 6  |150
-Deallocate | 5  |
-Deallocate |6   |
+|Order      | ID | Size
+| :---     |:----:|          ---: |
+|Allocate   | 1  | 200
+|Allocate   | 2  | 30
+|Allocate   | 3  | 55
+|Deallocate | 2  |
+|Deallocate | 3  |
+|Allocate   | 4  | 14
+|Deallocate | 1  |
+|Deallocate | 4  |
+|Allocate   | 5  |255
+|Allocate   | 6  |150
+|Deallocate | 5  |
+|Deallocate |6   |
