@@ -7,7 +7,7 @@ two childs each has space of n and store in the first child.
 ## Algorithm Assumptions:
 The data of each process is stored in one line in a file.
 
-### Input Example:
+### Input Example: "as text"
 
 |Order      | ID | Size
 | :---     |:----:|          ---: |
